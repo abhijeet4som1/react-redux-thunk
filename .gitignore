@@ -1,0 +1,14 @@
+.idea/
+node_modules/
+./dist
+*.iml
+webpack-assets.json
+webpack-stats.json
+npm-debug.log
+semantic.json
+build/
+server-build/
+prod
+trekkingte.tar.gz
+stats.json
+typings
